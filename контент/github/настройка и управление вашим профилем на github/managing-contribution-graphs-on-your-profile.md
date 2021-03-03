@@ -5,8 +5,10 @@ mapTopic: true
 redirect_from:
   - /articles/managing-contribution-graphs-on-your-profile
 versions:
-  free-pro-team: '*'
+  free-pro-team: '*'natasha1007/docs
   enterprise-server: '*'
   github-ae: '*'
----
+---natasha1007/docs'
+
+
 
